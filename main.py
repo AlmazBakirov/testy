@@ -1,4 +1,4 @@
 def main():
-    print("Hello")
+    x = 1
+    print("Hello!")
 main()
-
